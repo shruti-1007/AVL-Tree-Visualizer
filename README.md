@@ -25,5 +25,7 @@ This tool allows users to **insert, delete, and search nodes** while visualizing
 
 ## Demo
 
+[View the live site](https://shruti-1007.github.io/AVL-Tree-Visualizer/)
+
 
 
