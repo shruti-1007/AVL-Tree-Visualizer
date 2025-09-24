@@ -351,4 +351,15 @@ border: 2px solid #f57f17;  /* darker yellow border */
 transform: scale(1.2);      /* slightly bigger */
 transition: all 0.3s ease;
 }
+/* Nodes in the search path */
+.node.search-path {
+    border: 3px solid  gold;  /* green border */
+    background-color:  #ffe066; /* light green background */
+}
+
+/* Found node */
+.node.found {
+    border: 3px solid  #28a745;
+    background-color:#57dc76 ;
+}
 
