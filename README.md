@@ -1,8 +1,7 @@
 # AVL Tree Visualization
 
 An interactive AVL Tree visualizer built with JavaScript, HTML, and CSS.  
-This tool allows users to **insert, delete, and search nodes** while visualizing **AVL tree rotations, balance factors, and traversals**.\
-'''
+This tool allows users to **insert, delete, and search nodes** while visualizing **AVL tree rotations, balance factors, and traversals**.
 ## Features
 
 - **Interactive AVL Tree Operations**
